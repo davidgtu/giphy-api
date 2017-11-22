@@ -3,7 +3,7 @@
 Done as a challenge and practice. This is built on React. Built in about a day.
 
 ### Getting Started
-- `git clone https://github.com/atom/markdown-preview.git` and `cd` into it
+- `git clone https://github.com/davidgtu/giphy-api.git` and `cd` into it
 - `npm install`
 - `npm run start`
 
