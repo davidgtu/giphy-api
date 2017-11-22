@@ -22,7 +22,7 @@ export default class Main extends Component {
   }
 
   handleQuery(query) {
-    const url = `https://api.giphy.com/v1/gifs/search?api_key=2Nh2SlqSmuJr96ysomo5sTSmG2I3u6Bu&q=${query}&limit=3&offset=0&rating=PG-13&lang=en`
+    const url = `https://api.giphy.com/v1/gifs/search?api_key=2Nh2SlqSmuJr96ysomo5sTSmG2I3u6Bu&q=${query}&limit=6&offset=0&rating=PG-13&lang=en`
     const cache = this.processQuery(query);
 
     API.utils.get(url)
