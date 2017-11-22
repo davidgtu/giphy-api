@@ -1,6 +1,6 @@
 # Giphy + React search
 
-Done as a challenge and practice. This is built on React. Built in about a day.
+Done as a challenge and practice. This is built on React. Built in about a day. This is also hosted on firebase for your convenience : https://reactphy.firebaseapp.com/
 
 ### Getting Started
 - `git clone https://github.com/davidgtu/giphy-api.git` and `cd` into it
