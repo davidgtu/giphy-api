@@ -1,0 +1,22 @@
+.navigation {
+  font-family: $headerFont;
+}
+
+.nav {
+  @extend %no-list-style;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+
+  a {
+    margin: 0 25px;
+    text-decoration: none;
+    font-size: 4rem;
+    color: #000;
+
+    &.active {
+      font-weight: 600;
+      color: $softRed;
+    }
+  }
+}
