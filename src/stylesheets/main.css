@@ -109,7 +109,8 @@ p, span, input {
   align-items: center; }
   .gif--container .gif--img-container {
     margin: 25px;
-    padding: 25px;
+    padding: 10px;
+    border-radius: 3px;
     background: #ff5252; }
 
 .gif-history--container span {
