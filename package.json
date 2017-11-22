@@ -1,6 +1,7 @@
 {
   "name": "giphy-api",
   "version": "0.1.0",
+  "homepage":"https://reactphy.firebaseapp.com/",
   "private": true,
   "dependencies": {
     "prop-types": "^15.6.0",
