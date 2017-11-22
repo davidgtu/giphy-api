@@ -23,6 +23,8 @@ Included is also a fun little `route` that leads to searching everything cats.
 
 - Unit testing! Testing is very under-appreciated, and though it makes development slow, it makes the application more solid.
 
+- dont push to master
+
 ### Lastly
 However the implementation of the app, I am passionate about having a good UI, and on top of loving React, I love CSS/SASS. I try to keep my conventions close to BEM CSS.
 
