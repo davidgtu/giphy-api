@@ -112,6 +112,9 @@ p, span, input {
     padding: 25px;
     background: #ff5252; }
 
+.gif-history--container span {
+  font-family: "Montserrat", sans-serif; }
+
 .cat--container {
   height: 100vh; }
 

@@ -16,7 +16,7 @@ const API = {
   },
   giphy: {
     getTrending: () => {
-      return API.utils.get('https://api.giphy.com/v1/gifs/trending?api_key=2Nh2SlqSmuJr96ysomo5sTSmG2I3u6Bu&limit=9&rating=G')
+      return API.utils.get('https://api.giphy.com/v1/gifs/trending?api_key=2Nh2SlqSmuJr96ysomo5sTSmG2I3u6Bu&limit=6&rating=G')
     },
     getCats: (term) => {
       const url = encodeURI('https://api.giphy.com/v1/gifs/random?api_key=2Nh2SlqSmuJr96ysomo5sTSmG2I3u6Bu&tag='+term+' cat&rating=G')
